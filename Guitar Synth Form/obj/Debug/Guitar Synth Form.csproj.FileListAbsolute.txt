@@ -1,0 +1,31 @@
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\Guitar Synth Form.exe.config
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\Guitar Synth Form.exe
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\Guitar Synth Form.pdb
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.Asio.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.Core.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.Midi.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.WinForms.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.WinMM.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.Asio.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.Core.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.Midi.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.WinForms.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\NAudio.WinMM.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Asus\Desktop\Guitar Synth Form\obj\Debug\Guitar Synth Form.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Guitar Synth Form\obj\Debug\GuitarSoundGenerator.Form1.resources
+C:\Users\Asus\Desktop\Guitar Synth Form\obj\Debug\Guitar_Synth_Form.Properties.Resources.resources
+C:\Users\Asus\Desktop\Guitar Synth Form\obj\Debug\Guitar Synth Form.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Guitar Synth Form\obj\Debug\Guitar Synth Form.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Guitar Synth Form\obj\Debug\Guitar S.3553BA17.Up2Date
+C:\Users\Asus\Desktop\Guitar Synth Form\obj\Debug\Guitar Synth Form.exe
+C:\Users\Asus\Desktop\Guitar Synth Form\obj\Debug\Guitar Synth Form.pdb

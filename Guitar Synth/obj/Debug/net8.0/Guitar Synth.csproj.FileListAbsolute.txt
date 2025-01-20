@@ -1,0 +1,22 @@
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\Guitar Synth.exe
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\Guitar Synth.deps.json
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\Guitar Synth.runtimeconfig.json
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\Guitar Synth.dll
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\Guitar Synth.pdb
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\NAudio.dll
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\Asus\Desktop\Guitar Synth\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\Guitar Synth.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\Guitar Synth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\Guitar Synth.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\Guitar Synth.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\Guitar Synth.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\Guitar S.2734D659.Up2Date
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\Guitar Synth.dll
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\refint\Guitar Synth.dll
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\Guitar Synth.pdb
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\Guitar Synth.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Guitar Synth\obj\Debug\net8.0\ref\Guitar Synth.dll
